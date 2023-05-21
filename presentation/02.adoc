@@ -1,0 +1,13 @@
+== Wieso sollten Tests lesbar sein?
+
+- Verhalten verstehen beim Fehlschlagen
+- Tests als Dokumentation
+
+== Was macht Tests lesbar?
+
+. Klare Namensgebung
+.. des Tests
+.. der Variablen
+. Nachvollziehbarkeit der Erwartungen
+. Wenig Boilerplate
+. Erkennbar was für den Test relevant ist

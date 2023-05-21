@@ -1,0 +1,15 @@
+== Wiederholungen
+
+- nicht relevante Stellen werden immer wiederholt
+
+[source,js,subs="verbatim,quotes"]
+----
+const stage: Stage = {id: 'Stage', width: 30, height: 30}
+        const box: Box = {id: 'Box', dimension: {x: 10, y: 10, height: 10, *width: 21*}, page: 1, isCurrent: false}
+
+        expect(clipBoxToStage(box, stage)).toEqual({...box.dimension, *width: 20*})
+----
+
+=== Lösung
+
+Immer gleiche Variablen im Kopf definieren und *relevante Stellen anpassen*

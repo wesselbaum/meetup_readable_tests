@@ -1,0 +1,10 @@
+== Zu viele Tests
+
+- Viele Tests für dasselbe Verhalten
+
+
+=== Lösung
+
+- Herausfinden was wirklich relevant ist und den Rest entfernen (oder überspringen).
+
+image::media/reduce.png[]

@@ -1,0 +1,6 @@
+== Ausgangsbasis
+
+Auswahl auf einer Fläche ziehen
+
+image::media/task.png[]
+

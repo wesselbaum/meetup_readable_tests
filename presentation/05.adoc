@@ -1,0 +1,7 @@
+== Was war zu sehen?
+
+3 Interfaces
+
+1 Implementierung
+
+Die Tests sollten sehr einfach zu verstehen sein...

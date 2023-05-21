@@ -1,0 +1,8 @@
+== Unklare Typen
+
+- Destructuring behält Typen nicht bei
+
+
+=== Lösung
+
+Builder Funktionen mit definierten Rückgabewerten

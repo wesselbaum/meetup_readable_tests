@@ -1,0 +1,23 @@
+{
+  "name": "meetup_readable_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesselbaum/meetup_readable_tests.git"
+  },
+  "author": "wesselbaum",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wesselbaum/meetup_readable_tests/issues"
+  },
+  "homepage": "https://github.com/wesselbaum/meetup_readable_tests#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "vitest": "^0.31.1"
+  }
+}

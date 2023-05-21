@@ -1,0 +1,8 @@
+== Feste Annahmen
+
+- Es wird immer nur eine Annahme getroffen
+
+
+=== Lösung
+
+- Zufallswerte verwenden um klar zu machen welche Voraussetzungen wirklich sein müssen
